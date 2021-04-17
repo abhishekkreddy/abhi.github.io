@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: #ff0000;
+    text-align: center;
+    width: px;
+    padding: 40px;
+    height: 200px;
+    border: antiquewhite;
+}
+
+
+.heading
+{
+    font-family:;
+    text-align: center;
+    background-color: cornsilk;
+    color:blue;
+}
+.table
+{
+    
+
+    text-align: center;
+    background-color: cornsilk;
+    color:rgb(0, 0, 157);
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    color: rgb(75, 75, 102);
+   
+
+  }
+  th, td {
+    padding: 15px;
+  }
+  img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+  }
+  table{
+        block-size: auto;
+        margin-left: auto;
+        margin-right: auto;
+       border-style: solid;
+       color: darkred;
+      
+  }
+  main{
+      background-color: rgb(255, 254, 254);
+      color: rgb(0, 0, 0);
+  }
